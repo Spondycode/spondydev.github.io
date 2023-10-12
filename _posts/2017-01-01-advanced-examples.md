@@ -15,6 +15,8 @@ I actually quite liked VSCode to begin with but then, maybe because I put in too
 
 On the other hand Neovim gives me the assistance where I might need it and provides lots of keyboard tricks whic I miss if I edit text in anything else. 
 
+Still have to touch the mouse from time to time but I can do so much with just the keyboard. So much more efficient.
+
 
 
 
