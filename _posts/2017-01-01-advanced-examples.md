@@ -5,7 +5,8 @@ categories: media
 ---
 ## Neovim is the Bees Knees
 
-![Neovim](/assets/images/neovim1.png)
+![Neovim](https://github.com/Spondycode/spondydev.github.io/raw/master/assets/images/neovim1.png)
+https://github.com/Spondycode/spondydev.github.io/raw/master/assets/images/neovim1.png
 
 ## Better than Visual Studio
 
